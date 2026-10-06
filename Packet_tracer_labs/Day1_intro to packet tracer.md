@@ -15,4 +15,4 @@
 ![Network Diagram](اسم_صورة_الرسمة.png)
 
 ## Requirements & Instructions Details:
-![Instructions Screenshot](اسم_صورة_التعليمات.png)
+<img width="388" height="302" alt="day1_requierments" src="https://github.com/user-attachments/assets/bd58fae8-bd72-465c-be0e-705476484ddd" />
